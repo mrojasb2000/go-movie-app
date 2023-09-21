@@ -12,3 +12,5 @@ message MovieDeatils {
     float rating = 1;
     Metadata metadata = 2;
 }
+
+ 
