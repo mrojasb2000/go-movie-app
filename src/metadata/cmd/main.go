@@ -4,9 +4,9 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/mrojasb2000/go-movie-app/metadata/internal/controller/metadata"
-	httphandler "github.com/mrojasb2000/go-movie-app/metadata/internal/handler/http"
-	"github.com/mrojasb2000/go-movie-app/metadata/internal/repository/memory"
+	"github.com/mrojasb2000/go-movie-app/src/metadata/internal/controller/metadata"
+	httphandler "github.com/mrojasb2000/go-movie-app/src/metadata/internal/handler/http"
+	"github.com/mrojasb2000/go-movie-app/src/metadata/internal/repository/memory"
 )
 
 func main() {

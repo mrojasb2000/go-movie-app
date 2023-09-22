@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/mrojasb2000/go-movie-app/movie/internal/controller/movie"
+	"github.com/mrojasb2000/go-movie-app/src/movie/internal/controller/movie"
 )
 
 // Handler defines a movie handler.

@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/mrojasb2000/go-movie-app/metadata/pkg/model"
-	"github.com/mrojasb2000/go-movie-app/movie/internal/gateway"
+	"github.com/mrojasb2000/go-movie-app/src/metadata/pkg/model"
+	"github.com/mrojasb2000/go-movie-app/src/movie/internal/gateway"
 )
 
 // Gateway defines a movie metadata HTTP gateway.

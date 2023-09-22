@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/mrojasb2000/go-movie-app/movie/internal/gateway"
-	"github.com/mrojasb2000/go-movie-app/rating/pkg/model"
+	"github.com/mrojasb2000/go-movie-app/src/movie/internal/gateway"
+	"github.com/mrojasb2000/go-movie-app/src/rating/pkg/model"
 )
 
 // Gateway defines an HTTP gateway for a rating service.

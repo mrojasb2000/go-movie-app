@@ -6,8 +6,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/mrojasb2000/go-movie-app/metadata/internal/controller/metadata"
-	"github.com/mrojasb2000/go-movie-app/metadata/internal/repository"
+	"github.com/mrojasb2000/go-movie-app/src/metadata/internal/controller/metadata"
+	"github.com/mrojasb2000/go-movie-app/src/metadata/internal/repository"
 )
 
 // Handler defines a movie metadata HTTP handler.

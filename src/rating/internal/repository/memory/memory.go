@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 
-	"github.com/mrojasb2000/go-movie-app/rating/internal/repository"
-	"github.com/mrojasb2000/go-movie-app/rating/pkg/model"
+	"github.com/mrojasb2000/go-movie-app/src/rating/internal/repository"
+	"github.com/mrojasb2000/go-movie-app/src/rating/pkg/model"
 )
 
 // ErrNotFound is returned when no ratings are found for a record.

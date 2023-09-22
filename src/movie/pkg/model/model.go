@@ -1,6 +1,6 @@
 package model
 
-import "github.com/mrojasb2000/go-movie-app/metadata/pkg/model"
+import "github.com/mrojasb2000/go-movie-app/src/metadata/pkg/model"
 
 // MovieDetails includes movie metadata its aggregated rating.
 type MovieDetails struct {

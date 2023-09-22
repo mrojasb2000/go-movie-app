@@ -7,8 +7,8 @@ import (
 	"net/http"
 	"strconv"
 
-	"github.com/mrojasb2000/go-movie-app/rating/internal/controller/rating"
-	"github.com/mrojasb2000/go-movie-app/rating/pkg/model"
+	"github.com/mrojasb2000/go-movie-app/src/rating/internal/controller/rating"
+	"github.com/mrojasb2000/go-movie-app/src/rating/pkg/model"
 )
 
 // Handler defines a rating service controller.
